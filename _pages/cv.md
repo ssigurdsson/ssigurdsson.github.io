@@ -9,51 +9,49 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV here](http://ssigurdsson.com/files/CV_STEFAN_SIGURDSSON.pdf)
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Neuroengineering, Brown University, 2015 - present
+* Bachelor of Science in Physics, University of Iceland, 2012 - 2015
+* Exchange Program, Waseda University, 2014 - 2015
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* SEP 2015 - NOW: Ph.D. Student, <i>Brown University, Neuroengineering</i>
+  * Research in Dr. Arto Nurmikko's Lab
+
+
+* SEP 2014 - AUG 2015: Student researcher, <i>Waseda University </i>
+  * Researched heat-evoked neuronal action potential generation by patch clamp in the Ishiwata Lab
+
+* MAY - SEP 2014: Summer Research Intern, <i>University of Iceland</i>
+  * Investigated Debye Sheath phenomena by Monte Carlo plasma simulation in C++
+  
+* SEP - DEC 2013: Teaching Assistant, <i>University of Iceland</i>
+  * Taught first year physics (theory and experimental)
+  
+* MAY - SEP 2013: Summer Internship, <i>Carbon Recycling International</i>
+  * Built Excel models for feasibility studies of expanding international operations
+  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming languages: Python, Verilog, Matlab, Java, C#, C++.
+* Operating Systems: Linux, Windows.
+* Tools: OpenCV, Visual Studio Code.
+* Excellent communication skills.
+* Self-motivation with strong analytical abilities
+* Exceptional problem-solving skills.
 
-Publications
+Honors & Awards
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Awarded for highest graduating grade in the sciences at the University of Iceland for the year of 2015.
+* Honorable Mention at the International Physics Olympiad in 2012.
+* Second Place in the Icelandic National High School Math Competition for the year 2012.
+* First Place in the Icelandic National High School Programming Competition for the year 2012.
+
+
+
