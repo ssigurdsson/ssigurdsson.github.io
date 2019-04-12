@@ -43,7 +43,7 @@ Work experience
   
 Skills
 ======
-* Microfabrication, Lithography, Patch-Clamp, Rodent Surgery, Immunohistology, Programming.
+* Microfabrication, Photolithography, Patch-Clamp, Rodent Surgery, Immunohistology, Programming.
 * Programming languages: Python, Verilog, Matlab, Java, C#, C++.
 * Operating Systems: Linux, Windows.
 * Strong communication skills and analytical abilities.
