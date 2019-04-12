@@ -20,23 +20,23 @@ Education
 Work experience
 ======
 
-* Sep 2015 - Now: Ph.D. Student, <i>Brown University, Neuroengineering</i>
+* **Sep 2015 - Now:** Ph.D. Student, <i>Brown University, Neuroengineering</i>
   * Research in Dr. Arto Nurmikko's Neuroengineering and Nanophotonics Lab
 
 
-* Sep 2014 - Aug 2015: Student researcher, <i>Waseda University </i>
+* **Sep 2014 - Aug 2015:** Student researcher, <i>Waseda University </i>
   * Researched heat-evoked neuronal action potential generation by patch clamp in the Ishiwata Lab
 
 
-* May 2014 - Sep 2014: Summer Research Intern, <i>University of Iceland</i>
+* **May 2014 - Sep 2014:** Summer Research Intern, <i>University of Iceland</i>
   * Investigated Debye Sheath phenomena by Monte Carlo plasma simulation in C++
   
   
-* Sep 2013 - Dec 2013: Teaching Assistant, <i>University of Iceland</i>
+* **Sep 2013 - Dec 2013:** Teaching Assistant, <i>University of Iceland</i>
   * Taught first year physics (theory and experimental)
   
   
-* May 2013 - Sep 2013: Summer Internship, <i>Carbon Recycling International</i>
+* **May 2013 - Sep 2013:** Summer Internship, <i>Carbon Recycling International</i>
   * Built Excel models for feasibility studies of expanding international operations
   
   
