@@ -20,7 +20,7 @@ Education
 Work experience
 ======
 
-* **Sep 2015 - Now:** Ph.D. Student, <i>Brown University, Neuroengineering</i>
+* **Sep 2015 - Now:** Ph.D. Student, <i>Brown University</i>
   * Research in Dr. Arto Nurmikko's Neuroengineering and Nanophotonics Lab
 
 
