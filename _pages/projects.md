@@ -17,10 +17,10 @@ Automated Pick & Place Processing
 
   [Source Code](https://github.com/ssigurdsson/Pick-Place-Automation)
 
-ARM32 Processor Implemented on a Cyclone II
+ARM32 Processor Implemented on a Cyclone II FPGA
 ------
-* FPGA Programming in Verilog
+* HDL Programming in Verilog
 * Implemented a 5-stage pipelined ARM32 processor for course ENGN1640 at Brown University
-* Achieved the highest processor frequency of any student for the year 2017
+* Achieved the highest processor frequency of any student for the year of 2017
 
   [Source Code](https://github.com/ssigurdsson/ARM32-in-Verilog)
