@@ -48,10 +48,10 @@ Skills
 
 Honors & Awards
 ======
-* Awarded for highest graduating grade in the sciences at the University of Iceland for the year of 2015.
+* Awarded for highest graduating grade in the physical sciences at the University of Iceland for the year of 2015.
 * Honorable Mention at the International Physics Olympiad in 2012.
-* Second Place in the Icelandic National High School Math Competition for the year 2012.
-* First Place in the Icelandic National High School Programming Competition for the year 2012.
+* 2nd Place in the Icelandic National High School Math Competition for the year 2012.
+* 1st-2nd Place in the Icelandic National High School Programming Competition for the year 2012.
 
 
 
