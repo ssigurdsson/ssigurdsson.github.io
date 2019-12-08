@@ -25,7 +25,7 @@ Work experience
 
 
 * **Sep 2014 - Aug 2015:** Student researcher, <i>Waseda University </i>
-  * Researched heat-evoked neuronal action potential generation by patch clamp in the Ishiwata Lab
+  * Explored neuronal action potential generation by patch clamp electrophysiology in the Ishiwata Lab
 
 
 * **May 2014 - Sep 2014:** Summer Research Intern, <i>University of Iceland</i>
@@ -44,8 +44,7 @@ Work experience
 Skills
 ======
 * Microfabrication, Photolithography, Patch-Clamp, Rodent Surgery, Immunohistology, Programming.
-* Programming languages: Python, Verilog, Matlab, Java, C#, C++.
-* Operating Systems: Linux, Windows.
+* Programming languages: Python > C++ >> Java > Verilog = Matlab.
 * Strong communication skills and analytical abilities.
 
 Honors & Awards
@@ -53,7 +52,7 @@ Honors & Awards
 * Awarded for highest graduating grade in the physical sciences at the University of Iceland for the year of 2015.
 * Honorable Mention at the International Physics Olympiad in 2012.
 * 2nd Place in the Icelandic National High School Math Competition for the year 2012.
-* 1st-2nd Place in the Icelandic National High School Programming Competition for the year 2012.
+* Rank 180 in Google Kickstart round H - 2019.
 
 
 
