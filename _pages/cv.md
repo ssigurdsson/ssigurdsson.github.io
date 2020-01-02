@@ -36,10 +36,6 @@ Work experience
   * Taught first year physics (theory and experimental)
   
   
-* **May 2013 - Sep 2013:** Summer Internship, <i>Carbon Recycling International</i>
-  * Built Excel models for feasibility studies of expanding international operations
-  
-  
   
 Skills
 ======
