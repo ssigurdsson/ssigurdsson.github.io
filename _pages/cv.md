@@ -21,19 +21,19 @@ Work experience
 ======
 
 * **Sep 2015 - Now:** Ph.D. Student, <i>Brown University</i>
-  * Research in Dr. Arto Nurmikko's Neuroengineering and Nanophotonics Lab
+  * Research in Dr. Arto Nurmikko's Neuroengineering and Nanophotonics Lab.
 
 
 * **Sep 2014 - Aug 2015:** Student researcher, <i>Waseda University </i>
-  * Explored neuronal action potential generation by patch clamp electrophysiology in the Ishiwata Lab
+  * Explored neuronal action potential generation by patch clamp electrophysiology in the Ishiwata Lab.
 
 
 * **May 2014 - Sep 2014:** Summer Research Intern, <i>University of Iceland</i>
-  * Investigated Debye Sheath phenomena by Monte Carlo plasma simulation in C++
+  * Investigated Debye Sheath phenomena by Monte Carlo plasma simulation in C++.
   
   
 * **Sep 2013 - Dec 2013:** Teaching Assistant, <i>University of Iceland</i>
-  * Taught first year physics (theory and experimental)
+  * Taught first year physics (theory and experimental).
   
   
   
