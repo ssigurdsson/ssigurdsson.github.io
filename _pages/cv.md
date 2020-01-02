@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](http://ssigurdsson.com/files/CV_STEFAN_SIGURDSSON.pdf)
+[Download CV here](https://ssigurdsson.github.io/files/CV_STEFAN_SIGURDSSON.pdf)
 
 Education
 ======
