@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Netcode Visualization Tool
+Net-Blob, Netcode Visualization Tool
 ------
 * Networking project in Python within the context of an online multiplayer game.
 * This project aims to provide insight into the networking of online multiplayer games, or "netcode" as it is broadly termed.
