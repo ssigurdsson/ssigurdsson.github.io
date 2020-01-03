@@ -24,10 +24,6 @@ Work experience
   * Research in Dr. Arto Nurmikko's Neuroengineering and Nanophotonics Lab.
 
 
-* **Sep 2014 - Aug 2015:** Student researcher, <i>Waseda University </i>
-  * Explored neuronal action potential generation by patch clamp electrophysiology in the Ishiwata Lab.
-
-
 * **May 2014 - Sep 2014:** Summer Research Intern, <i>University of Iceland</i>
   * Investigated Debye Sheath phenomena by Monte Carlo plasma simulation in C++.
   
@@ -36,11 +32,10 @@ Work experience
   * Taught first year physics (theory and experimental).
   
   
-  
 Skills
 ======
-* Microfabrication, Photolithography, Patch-Clamp, Rodent Surgery, Immunohistology, Programming.
-* Programming languages: Python > C++ >> Java > Verilog = Matlab.
+* Microfabrication, Photolithography, Rodent Surgery, Immunohistology, Programming.
+* Programming languages: Proficient in Python; Familiar with C++, Java, Verilog, Matlab.
 * Strong communication skills and analytical abilities.
 
 Honors & Awards
