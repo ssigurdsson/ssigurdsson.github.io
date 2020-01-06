@@ -22,6 +22,10 @@ Work experience
 
 * **Sep 2015 - Now:** Ph.D. Student, <i>Brown University</i>
   * Research in Dr. Arto Nurmikko's Neuroengineering and Nanophotonics Lab.
+  
+  
+* **Jan 2015 - May 2015:** Student Researcher, <i>Waseda University</i>
+  * Analyzed the firing patterns of neuronal cultures in response to heat-induced stimuli in Matlab.
 
 
 * **May 2014 - Sep 2014:** Summer Research Intern, <i>University of Iceland</i>
@@ -34,16 +38,17 @@ Work experience
   
 Skills
 ======
-* Microfabrication, Photolithography, Rodent Surgery, Immunohistology, Programming.
-* Programming languages: Proficient in Python; Familiar with C++, Java, Verilog, Matlab.
-* Strong communication skills and analytical abilities.
+* Languages: Proficient in Python; Familiar with C++, Java, Verilog, Matlab, HTML, SQL, Shell Script.
+* Tools/Frameworks: OpenCV, Android SDK, RESTful API, Django, JSON, Git.
+* Skills: Advanced Algorithms, OOD, Map Reduce, Data Analysis, Networking, Android Development.
 
 Honors & Awards
 ======
-* Awarded for highest graduating grade in the physical sciences at the University of Iceland for the year of 2015.
-* Honorable Mention at the International Physics Olympiad in 2012.
 * 2nd Place in the Icelandic National High School Math Competition for the year 2012.
-* Rank 180 in Google Kickstart round H - 2019.
+* Honorable Mention at the International Physics Olympiad in 2012.
+* Performed in the robotics competition at the University of Iceland for the year 2014.
+* Awarded for highest graduating grade in the physical sciences at the University of Iceland for the year of 2015.
+* Rank 180 out of 3300 contestants in Google’s Coding Competition “Kickstart” round H – 2019.
 
 
 
