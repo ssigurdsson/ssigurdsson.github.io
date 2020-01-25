@@ -25,15 +25,20 @@ Work experience
   
   
 * **Jan 2015 - May 2015:** Student Researcher, <i>Waseda University</i>
-  * Analyzed the firing patterns of neuronal cultures in response to heat-induced stimuli in Matlab.
+  *	Performed data analysis on raw voltage data collected from excited neuronal cell cultures.
+  *	Identified key behaviors in neuronal firing patterns I was able to tie to specific ion-channels using ion-blockers.
 
 
 * **May 2014 - Sep 2014:** Summer Research Intern, <i>University of Iceland</i>
-  * Investigated Debye Sheath phenomena by Monte Carlo plasma simulation in C++.
-  
+  *	Added functionality for new types of molecular interactions to custom Monte Carlo plasma simulation software.
+  *	Performed extensive simulations on a local supercomputing cluster for investigation of certain plasma phenomena.
+
   
 * **Sep 2013 - Dec 2013:** Teaching Assistant, <i>University of Iceland</i>
   * Taught first year physics (theory and experimental).
+  
+* **May 2013 - Sep 2013:** Summer Intern, <i>Carbon Recycling International</i>
+  * Created models for feasability studies of expanding international operations.
   
   
 Skills
@@ -46,7 +51,6 @@ Honors & Awards
 ======
 * 2nd Place in the Icelandic National High School Math Competition for the year 2012.
 * Honorable Mention at the International Physics Olympiad in 2012.
-* Performed in the robotics competition at the University of Iceland for the year 2014.
 * Awarded for highest graduating grade in the physical sciences at the University of Iceland for the year of 2015.
 * Rank 180 out of 3300 contestants in Google’s Coding Competition “Kickstart” round H – 2019.
 
