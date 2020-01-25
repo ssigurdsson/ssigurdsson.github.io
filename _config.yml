@@ -89,7 +89,7 @@ author:
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "stefan.asigurdsson@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : #"https://leetcode.com/ssigurdsson/"
   bitbucket        :
   codepen          :
   dribbble         :
