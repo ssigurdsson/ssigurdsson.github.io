@@ -40,6 +40,25 @@ Work experience
 * **May 2013 - Sep 2013:** Summer Intern, <i>Carbon Recycling International</i>
   * Created models for feasability studies of expanding international operations.
   
+Projects
+======
+
+* **Oct 2019 - Jan 2020:** Net-Blob: Netcode Visualization Tool, <i>(Python)</i>
+  *	Implemented various networking algorithms relating to online multiplayer gaming within the context of an original networked multiplayer game (server-client model).
+  *	The tool includes the ability to visualize these networking algorithms in action under various simulated network conditions. Gameplay experience is robust at up to 600 ms latency, 50% packet loss.
+  *	Published a report on the performance and scaling of the multithreaded server.
+  
+* **Mar 2019 - Jul 2019:** BuJo: Habit Tracker , <i>(Java)</i>
+  *	Designed and developed a bullet journal habit tracker application for mobile devices in Android Studio.
+  *	Implemented a database for storage of JSON encoded user information.
+
+* **Aug 2018 - Oct 2018:** BuJo: Habit Tracker , <i>(Python)</i>
+  *	Automated the sorting of silicon dies by Pick & Place machine using the OpenCV library for my PhD thesis work.
+  
+* **Sep 2017 - Dec 2017:** FPGA Programming: ARM32 Processor Implemented on a Cyclone II , <i>(Verilog)</i>
+  *	Developed a 5-stage pipelined ARM32 processor in Verilog for course ENGN1640 at Brown University.
+  * Achieved the highest processor frequency of any student for the year 2017.
+
   
 Skills
 ======
