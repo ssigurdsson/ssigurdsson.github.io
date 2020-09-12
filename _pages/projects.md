@@ -9,14 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Net-Blob: Netcode Visualization Tool
-------
-* Networking project in Python within the context of an online multiplayer game.
-* This project aims to provide insight into the networking of online multiplayer games, or "netcode" as it is broadly termed.
-* An authoritative server-client model enables gameplay resembling that of the online game Agar.io, which is accompanied by controls that allow the user to simulate poor network conditions. As the subject of this project would suggest, the client employs a number of commonly used techniques for reducing the negative impact of such poor conditions.
-
-  [Source Code](https://github.com/ssigurdsson/Netcode-Visualization-Tool)
-
 Pick & Place Machine Automation
 ------
 * Computer Vision project in Python.
