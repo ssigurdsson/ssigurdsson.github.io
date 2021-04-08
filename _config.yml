@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Stefan Sigurdsson"
 title_separator          : "-"
 name                     : &name "Stefan Sigurdsson"
-description              : &description "PhD student, Neuroengineering, Brown University"
+description              : &description "Full-stack engineer, Aven Financial"
 url                      : https://ssigurdsson.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ssigurdsson/ssigurdsson.github.io"
@@ -89,7 +89,7 @@ author:
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "stefan.asigurdsson@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : https://leetcode.com/ssigurdsson/
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
