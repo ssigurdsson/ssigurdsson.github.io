@@ -9,4 +9,4 @@ Location:
 Burlingame, CA 94010
 
 Email:
-stefan.asigurdsson [at] gmail.com
+stefan.asigurdsson@gmail.com
