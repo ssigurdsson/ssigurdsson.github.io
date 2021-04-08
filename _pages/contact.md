@@ -5,8 +5,8 @@ permalink: /contact/
 author_profile: true
 ---
 
-Address:
-School of Engineering, 184 Hope St, Providence, RI 02912
+Location:
+Burlingame, CA 94010
 
 Email:
 stefan.asigurdsson [at] gmail.com
